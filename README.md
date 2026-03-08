@@ -1,1 +1,2 @@
-# machine_learning
+## SW와AI - AI와 머신러닝
+## 머신러닝 (전공)
